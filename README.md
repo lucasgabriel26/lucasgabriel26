@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/pCMJQ9O.png" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
+  <img src="https://raw.githubusercontent.com/lucasgabriel26/lucasgabriel26/main/banner.png" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Lucas!</h1>
+<h1 align="center">👋 Olá, eu sou Lucas!</h1>
 
 <p align="center">
   <em>Estudante de Análise e Desenvolvimento de Sistemas | Focado em Dados</em>
