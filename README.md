@@ -21,8 +21,8 @@ Sou também **técnico em informática** pelo **IFRN**, onde tive meus primeiros
 ### 🧠 Principais habilidades
 
 #### 📘 Análise de Dados e Visualização
-- <img align="center" alt="Excel" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"> **Excel / Google Planilhas** – fórmulas, tabelas dinâmicas, dashboards
-- <img align="center" alt="PowerBI" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"> **Power BI** – modelagem, DAX e storytelling com dados
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" width="20"/> **Excel/Google Planilhas** – fórmulas, tabelas dinâmicas, dashboards  
+- <img src="https://img.icons8.com/color/48/power-bi.png" width="20"/> **Power BI** – modelagem, DAX e storytelling com dados  
 
 #### 🐍 Linguagens e Bancos de Dados
 - <img align="center" alt="Python" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> **Python** – pandas, matplotlib, numpy
@@ -67,10 +67,10 @@ Sou também **técnico em informática** pelo **IFRN**, onde tive meus primeiros
 
 ---
 
-> 💬 “Transformar dados em decisões é o que me move — e aprender algo novo todos os dias é o que me guia.”
+> 💬 “Transformar dados em decisões é o que me move, e aprender algo novo todos os dias é o que me guia.”
 
 ---
 
 <p align="center">
-  <sub>📅 Atualizado em {date.today().strftime("%d/%m/%Y")} • Feito com 💙 e muito ☕</sub>
+  <sub>📅 Atualizado em 24/10/2025 • Feito com muito ☕</sub>
 </p>
