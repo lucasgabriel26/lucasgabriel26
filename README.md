@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasgabriel26/lucasgabriel26/main/banner.png" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
+  <img src="[https://raw.githubusercontent.com/lucasgabriel26/lucasgabriel26/main/banner.png](https://github.com/lucasgabriel26/lucasgabriel26/blob/main/banner.png)" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Lucas!</h1>
