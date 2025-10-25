@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lucasgabriel26/lucasgabriel26/blob/main/banner.png" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
+  <img src="https://raw.githubusercontent.com/lucasgabriel26/lucasgabriel26/main/banner.png" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Lucas!</h1>
@@ -12,7 +12,7 @@
 
 ### 📊 Sobre mim
 
-Sou apaixonado por tecnologia e dados — acredito que boas decisões nascem de boas análises.  
+Sou apaixonado por tecnologia e dados, acredito que boas decisões nascem de boas análises.  
 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Descomplica** e conclui o **Programa de Formação em Análise de Dados (300h)** pela **Edumi**.  
 Sou também **técnico em informática** pelo **IFRN**, onde tive meus primeiros contatos com lógica de programação e tecnologia.  
 
@@ -21,7 +21,7 @@ Sou também **técnico em informática** pelo **IFRN**, onde tive meus primeiros
 ### 🧠 Principais habilidades
 
 #### 📘 Análise de Dados e Visualização
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" width="20"/> **Excel/Google Planilhas** – fórmulas, tabelas dinâmicas, dashboards  
+- <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="20"/> **Excel / Google Planilhas** – fórmulas, tabelas dinâmicas, dashboards  
 - <img src="https://img.icons8.com/color/48/power-bi.png" width="20"/> **Power BI** – modelagem, DAX e storytelling com dados  
 
 #### 🐍 Linguagens e Bancos de Dados
