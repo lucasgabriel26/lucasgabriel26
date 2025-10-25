@@ -37,14 +37,14 @@ Sou também **técnico em informática** pelo **IFRN**, onde tive meus primeiros
 
 ### 🚀 Projetos em destaque
 
-📈 [**Case de Análise de Visitas Imobiliárias - Quinto Andar**](#)  
+📈 [**Case de Análise de Visitas Imobiliárias - Quinto Andar**](bit.ly/case-QuintoAndar)  
 *Exploração e visualização de dados de visitas e conversões, com storytelling e métricas de desempenho.*
 
-🐍 [**Web Scraping - Banco Central (BACEN)**](#)  
+🐍 [**Web Scraping - Banco Central (BACEN)**](bit.ly/projeto-webscraping-bacen)  
 *Coleta automatizada de dados financeiros via Python e requests, com tratamento em pandas.*
 
-📊 [**Dashboard de Produção Agrícola**](#)  
-*Painel interativo criado no Power BI para acompanhamento de produtividade e indicadores diários.*
+📊 [**Cases Edumi – Formação em Análise de Dados**](bit.ly/cases-edumi-Lucas)  
+*Trabalhei com bases reais utilizando SQL, Excel, Power BI e Python, aplicando técnicas de análise descritiva e exploratória*
 
 ---
 
