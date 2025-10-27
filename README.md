@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
+  <img src="./banner.png?cache=2025-10-27" width="100%" alt="Banner - Lucas Gabriel | Dados e Tecnologia"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Lucas!</h1>
